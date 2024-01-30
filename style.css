@@ -1,0 +1,79 @@
+.main{
+    width: 100%;
+    /* margin: 0%;
+    padding: 0%;
+     */
+}
+
+
+.header{
+   position: fixed;
+   width: 100%;
+   
+ 
+ 
+ 
+}
+.alphabetic{
+    font-family: cursive;
+    font-size: 75px;
+    background-color: rgb(123, 69, 173);
+    color: white;
+    text-align: center;
+    border: 5px solid rgb(139, 19, 251);
+    
+
+}
+.abc{
+    font-size: 43px;
+    background-color:#b98ae5 ;
+    color: black;
+    margin: 1px; 
+    border: 5px solid rgb(139, 19, 251);
+  
+   
+    
+    
+}
+
+a{text-decoration: none;  background-color: #d2b2ef; }
+
+
+
+
+
+
+
+.alphabets{
+    width: 100%;
+    width: bottom 100;
+    size: 600px;
+    background-color:#dfc5f8;
+    font-size: 620px;
+    font-family: monospace;
+    border: 5px solid black;
+    color:#1d1c1c;
+    padding-top: 5vh;
+
+}
+.Body{
+ 
+   display: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
